@@ -1388,11 +1388,11 @@ body.single-post .hero-content {
       -webkit-box-align: center;
       -ms-flex-align: center;
       align-items: center;
-      margin: 80px;
+      margin: 0;
       padding: 0;
       list-style: none; }
       .pr__footer .pr__footer__center ul > li {
-        margin: 0 30px;
+        margin: 0 10px;
         text-align: center; }
         .pr__footer .pr__footer__center ul > li > a {
           font-family: "Avant Grade", "Poppins", sans-serif;
