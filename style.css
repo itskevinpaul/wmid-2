@@ -1970,7 +1970,7 @@ a.uk-slidenav {
       .pr__header .inner .logo {
         width: 170px; }
         .pr__header .inner .logo .brand {
-          height: 32px; }
+          height: 85px; }
       .pr__header .inner .navbar {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -2029,7 +2029,7 @@ a.uk-slidenav {
       .pr__header.uk-active .inner {
         height: 100px; }
     .pr__header.pr__dark .inner .logo .brand {
-      background-position-y: -32px; }
+      background-position-y: 0px; }
   body.page-template .pr__hero__wrap .pr__header .inner .logo .brand {
     background-position-y: -32px; }
   /* Section: Global */
