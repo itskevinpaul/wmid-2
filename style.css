@@ -34,6 +34,10 @@ a:hover {
   a:hover:hover {
     color: #E9204F; }
 
+    .color-red{
+      color: #E9204F;
+    }
+
 /* Headings */
 h1,
 .uk-h1,
