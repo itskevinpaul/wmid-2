@@ -1849,7 +1849,9 @@ body #loader {
     -ms-flex-align: center;
     align-items: center; }
     body #loader .loading .txt {
-      opacity: 0; }
+      opacity: 0;
+      max-width: 40%;
+    }
     body #loader .loading .progress {
       opacity: 0;
       height: 4px;
