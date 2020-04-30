@@ -182,7 +182,7 @@ strong {
         display: inline-block;
         width: 100%;
         height: 28px;
-        background-image: url("/assets/images/abc.png");
+        background-image: url("/assets/images/");
         background-size: cover;
         background-repeat: no-repeat; }
     .pr__header .inner .navbar {
@@ -1388,7 +1388,7 @@ body.single-post .hero-content {
       -webkit-box-align: center;
       -ms-flex-align: center;
       align-items: center;
-      margin: 0;
+      margin: 80px;
       padding: 0;
       list-style: none; }
       .pr__footer .pr__footer__center ul > li {
