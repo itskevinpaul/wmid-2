@@ -1389,7 +1389,7 @@ body.single-post .hero-content {
       -ms-flex-align: center;
       align-items: center;
       margin: 0;
-      padding: 10px;
+      padding: 0;
       list-style: none; }
       .pr__footer .pr__footer__center ul > li {
         margin: 0 30px;
