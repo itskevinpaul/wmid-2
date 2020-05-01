@@ -1552,10 +1552,14 @@ body.single-post .hero-content {
 
 /* Headings */
 .pr__heading__secondary {
+
   font-family: "Trade Gothic", "Roboto Condensed", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #E9204F; }
+  color: #E9204F;
+
+  
+}
 
 /* Sections  Backgrounds */
 .uk-section-muted {
@@ -2079,6 +2083,10 @@ a.uk-slidenav {
     bottom: -20px;
     z-index: 0; }
   /* Blog Listing */
+  .blog{
+    margin-left: 10px;
+    margin-top: 5px;
+  }
   .blog-listing.chess-layout:hover .post.type-post {
     opacity: .4; }
   .blog-listing.chess-layout .item:nth-child(5n+5) .post.type-post .outer .featured-image:after,
